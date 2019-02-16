@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RLWiki</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">RL Wiki</string>
+    <string name="nav_header_subtitle">This is sweet</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="cars">
+        <item>Octane</item>
+        <item>Dominus</item>
+    </string-array>
+
+    <string-array name="boosts">
+        <item>Magic Missile</item>
+        <item>Hexphase</item>
+    </string-array>
+
+    <string-array name="wheels">
+        <item>Zomba</item>
+        <item>Draco</item>
+    </string-array>
+</resources>
